@@ -14,4 +14,3 @@ git clone https://github.com/MCSManager/MCSManager-Web-Production.git web
 cd web
 # Install dependencies
 npm install --production
-node app.js
